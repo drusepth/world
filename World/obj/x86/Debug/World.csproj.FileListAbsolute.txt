@@ -1,0 +1,17 @@
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\bin\Debug\World.exe
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\bin\Debug\World.pdb
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\obj\x86\Debug\World.frmWorldController.resources
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\obj\x86\Debug\World.Properties.Resources.resources
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\obj\x86\Debug\World.exe
+C:\Users\drusepth\documents\visual studio 2010\Projects\World\World\obj\x86\Debug\World.pdb
+C:\Users\ditto\Desktop\World\World\obj\x86\Debug\World.exe
+C:\Users\ditto\Desktop\World\World\obj\x86\Debug\World.pdb
+C:\Users\ditto\Desktop\World\World\obj\x86\Debug\World.csprojResolveAssemblyReference.cache
+C:\Users\ditto\Desktop\World\World\obj\x86\Debug\World.frmWorldController.resources
+C:\Users\ditto\Desktop\World\World\obj\x86\Debug\World.Properties.Resources.resources
+C:\Users\ditto\Desktop\World\World\obj\x86\Debug\World.csproj.GenerateResource.Cache
+C:\Users\ditto\Desktop\World\World\bin\Debug\World.exe
+C:\Users\ditto\Desktop\World\World\bin\Debug\World.pdb
